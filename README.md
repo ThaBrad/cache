@@ -1,3 +1,5 @@
+
+
 ---
 
 ### Part 1: Structured Project Requirements
@@ -78,4 +80,10 @@ Hosting 10,000 book covers is a bandwidth trap.
 2. Using strict pagination (only loading 20-50 items per page/API call) or infinite scroll, rather than dumping the whole JSON payload to the client.
 3. Implementing basic rate limiting on the API so a script can't just loop through `page=1` to `page=500` in two seconds.
 
+
+
 ---
+
+
+
+Would you like me to draft a friendly, non-technical response you can send back to him, or would you prefer to dive deeper into the data schema for the citations?
